@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kerem</h1>
 <h3 align="center">Studying Computer Science in TOBB Economy and Technology University, Senior Year</h3>
 
-- I’m currently working on [sslyze_scanner](https://github.com/kelma01/sslyze_scanner)
+- I’m currently working on [CyberTool](https://github.com/kelma01/domain_analyzer)
 
 - 🌱 I’m currently learning **Python, Linux**
 

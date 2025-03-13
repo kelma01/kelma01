@@ -3,8 +3,6 @@
 
 - I’m currently working on [CyberTool](https://github.com/kelma01/domain_analyzer)
 
-- 🌱 I’m currently learning **Python, Linux**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kelma01?tab=repositories](https://github.com/kelma01?tab=repositories)
 
 - 📫 How to reach me **keremelma388@outlook.com**

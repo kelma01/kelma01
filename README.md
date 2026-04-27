@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kerem</h1>
-<h3 align="center">Studying Computer Science in TOBB Economy and Technology University, Senior Year</h3>
+<h3 align="center">BSc in Computer Engineering @ TOBB ETÜ</h3>
 
 - I’m currently working on [Papillon](https://github.com/SabriMertPiskin/Papillon)
 

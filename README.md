@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kerem</h1>
+
+<h3 align="center">Software Test Engineer @ BITES</h3>
 <h3 align="center">BSc in Computer Engineering @ TOBB ETÜ</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelma01" alt="kelma01" /></a> </p>
